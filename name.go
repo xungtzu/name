@@ -1,3 +1,3 @@
 package name
 
-var Name = "Wasith"
+var Name = "Xungtzu"
